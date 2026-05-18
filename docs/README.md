@@ -2,6 +2,10 @@
   <h1>Tech Gallery</h1>
 </div>
 
+#### 常看常新
+
+[Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/)
+
 #### Hotspot
 
 [GitHub Trending](https://github.com/trending)
