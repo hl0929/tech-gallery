@@ -2,7 +2,6 @@
   <h1>Tech Gallery</h1>
 </div>
 
-
 #### Hotspot
 
 [GitHub Trending](https://github.com/trending)
