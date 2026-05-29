@@ -11,9 +11,9 @@
 
 #### LLM
 
-[Illustrated-Transformer - Transformer 示意图](https://jalammar.github.io/illustrated-transformer/)
+[Illustrated-Transformer](https://jalammar.github.io/illustrated-transformer/)
 
-[llm-architecture-gallery - 大模型架构图](https://sebastianraschka.com/llm-architecture-gallery/)
+[llm-architecture-gallery](https://sebastianraschka.com/llm-architecture-gallery/)
 
 [LLM Visualization](https://bbycroft.net/llm)
 
