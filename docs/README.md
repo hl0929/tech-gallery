@@ -46,3 +46,5 @@
 [Andrej Karpathy Blog](https://karpathy.bearblog.dev/blog/)
 
 [Lilian Weng Blog](https://lilianweng.github.io/)
+
+[Dario Amodei com](https://darioamodei.com/)
