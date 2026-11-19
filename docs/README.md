@@ -49,3 +49,5 @@
 
 [Dario Amodei com](https://darioamodei.com/)
 
+[deusyu](https://deusyu.app/)
+
