@@ -49,5 +49,7 @@
 
 [Dario Amodei com](https://darioamodei.com/)
 
-[deusyu](https://deusyu.app/)
+[deusyu Blog](https://deusyu.app/)
+
+[colah Blog](https://colah.github.io/)
 
